@@ -17,9 +17,9 @@ TrackMate is a comprehensive mobile app that combines advanced tracking capabili
 The authentication feature allows users to securely sign up, log in, and manage their accounts.
 
 <div align="left">
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/splash" alt="Authentication Screenshot 1" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Image/loginpage" alt="Authentication Screenshot 1" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Image/signuppage" alt="Authentication Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/splash.png" alt="Authentication Screenshot 1" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Image/loginpage.png" alt="Authentication Screenshot 1" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Image/signuppage.png" alt="Authentication Screenshot 2" width="250"/>
 </div>
 
 ### 2. Setup page
@@ -27,8 +27,8 @@ The authentication feature allows users to securely sign up, log in, and manage 
 TrackMate enables users to select their avatar and Asks for the NickName , Weight of the user, so that it can be usered for measuring calories burned
 
 <div align="left">
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/setuppage1" alt="Activity Tracking Screenshot 1" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/setuppage2" alt="Activity Tracking Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/setuppage1.png" alt="Activity Tracking Screenshot 1" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/setuppage2.png" alt="Activity Tracking Screenshot 2" width="250"/>
 </div>
 
 ### 3. Dashboard and Settings
@@ -36,9 +36,9 @@ TrackMate enables users to select their avatar and Asks for the NickName , Weigh
 The TrackMate dashboard provides users with an at-a-glance view of their overall performance. It showcases weekly and lifetime performance summaries, helping users track their progress and identify areas for improvement. The settings tab allows customization of profile details, such as the profile image, name, and weight. With these features, TrackMate offers a comprehensive and personalized fitness tracking experience.
 
 <div align="left">
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/dashboardpage1" alt="Activity Tracking Screenshot 1" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/dashboardpage2" alt="Activity Tracking Screenshot 2" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/settings1" alt="Activity Tracking Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/dashboardpage1.png" alt="Activity Tracking Screenshot 1" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/dashboardpage2.png" alt="Activity Tracking Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/settings1.png" alt="Activity Tracking Screenshot 2" width="250"/>
 </div>
 
 ### 4. Location Access Permission Handling
@@ -56,9 +56,9 @@ TrackMate implements robust permission handling for accessing the user's locatio
 By implementing comprehensive permission handling, TrackMate prioritizes user privacy and ensures the secure and responsible use of location data.
 
 <div align="left">
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/permission1" alt="Activity Tracking Screenshot 1" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/permission2" alt="Activity Tracking Screenshot 2" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/permission3" alt="Activity Tracking Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/permission1.png" alt="Activity Tracking Screenshot 1" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/permission2.png" alt="Activity Tracking Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/permission3.png" alt="Activity Tracking Screenshot 2" width="250"/>
 </div>
 
 ### 5. Activity Statistics
@@ -76,9 +76,9 @@ The Activity Statistics feature in TrackMate presents users with a dedicated pag
 View and manage your recorded tracks with the Track History feature. Easily sort the track list by date, calories burned, or distance covered to find specific tracks. Get a quick overview of essential details like average speed and duration. Click on any track to access a detailed view with a map visualization, elevation profile, and more. Gain valuable insights into your performance and track your progress effortlessly.
 
 <div align="left">
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/list1" alt="Activity Tracking Screenshot 1" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/list2" alt="Activity Tracking Screenshot 2" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/list3" alt="Activity Tracking Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/list1.png" alt="Activity Tracking Screenshot 1" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/list2.png" alt="Activity Tracking Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/list3.png" alt="Activity Tracking Screenshot 2" width="250"/>
 </div>
 
 ### 7. Realtime Tracking Activity of User
@@ -120,8 +120,8 @@ TrackMate's Overall Performance Analysis feature provides a comprehensive overvi
 TrackMate incorporates a social media feature that allows users to share their achievements and fitness milestones with others. Users can post their accomplishments and receive likes and comments from fellow users, fostering a sense of community and motivation. The implementation includes server-side pagination to efficiently manage large amounts of data and ensure optimal performance. Additionally, client-side pagination enhances the user experience by loading content in smaller, manageable chunks. This combination of server-side and client-side pagination ensures a smooth and seamless social media experience for users while maintaining performance and scalability.
 
 <div align="left">
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/setuppage1" alt="Activity Tracking Screenshot 1" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/setuppage2" alt="Activity Tracking Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/setuppage1.png" alt="Activity Tracking Screenshot 1" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/setuppage2.png" alt="Activity Tracking Screenshot 2" width="250"/>
 </div>
 
 
