@@ -38,20 +38,20 @@ The TrackMate dashboard provides users with an at-a-glance view of their overall
 <div align="left">
   <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/dashboardpage1" alt="Activity Tracking Screenshot 1" width="250"/>
   <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/dashboardpage2" alt="Activity Tracking Screenshot 2" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/dashboardpage3" alt="Activity Tracking Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/settings1" alt="Activity Tracking Screenshot 2" width="250"/>
 </div>
 
 ### 4. Location Access Permission Handling
 
 TrackMate implements robust permission handling for accessing the user's location. Here's how it works:
 
-Permission Request: When the app requires access to the user's location, TrackMate requests the necessary permissions. This ensures that the app can retrieve the user's location data accurately.
+  Permission Request: When the app requires access to the user's location, TrackMate requests the necessary permissions. This ensures that the app can retrieve the user's     location data accurately.
 
-Permission Dialog: A permission dialog is displayed to the user, explaining why the app requires location access and how it will be used. The user can choose to grant or deny the permission based on their preference.
+  Permission Dialog: A permission dialog is displayed to the user, explaining why the app requires location access and how it will be used. The user can choose to grant or   deny the permission based on their preference.
 
-Permission Handling: TrackMate handles the permission response accordingly. If the permission is granted, the app proceeds to retrieve the user's location data. If the permission is denied, the app adjusts its functionality accordingly and informs the user about the limitations.
+  Permission Handling: TrackMate handles the permission response accordingly. If the permission is granted, the app proceeds to retrieve the user's location data. If the     permission is denied, the app adjusts its functionality accordingly and informs the user about the limitations.
 
-Permission Settings: TrackMate provides a direct link to the device's settings, allowing users to modify the location permission at any time. This ensures transparency and empowers users to control their privacy settings.
+  Permission Settings: TrackMate provides a direct link to the device's settings, allowing users to modify the location permission at any time. This ensures transparency     and empowers users to control their privacy settings.
 
 By implementing comprehensive permission handling, TrackMate prioritizes user privacy and ensures the secure and responsible use of location data.
 
