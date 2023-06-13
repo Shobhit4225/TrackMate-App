@@ -131,7 +131,7 @@ class SetupFragment : Fragment(R.layout.fragment_setup) {
         val newUser = CreateUserRequest(name , selectedImg)
 
         val userService: UserService = ServiceBuilder.buildService(UserService::class.java)
-        val requestCall: Call<CreateUserResponse> = userService.createUser("https://track-mate-backend.onrender.com/api/user/createUser",newUser)
+        val requestCall: Call<CreateUserResponse> = userService.createUser("https://track-mate-backend-app.onrender.com/api/user/createUser",newUser)
 
         requestCall.enqueue(object : Callback<CreateUserResponse> {
             override fun onResponse(
@@ -144,14 +144,14 @@ class SetupFragment : Fragment(R.layout.fragment_setup) {
                     sharedPref.edit()
                         .putString(Constants.KEY_USER_ID , userId)
                         .apply()
-                    Toast.makeText(requireContext(), "SuccessFully User Created" , Toast.LENGTH_SHORT).show()
+                    Toast.makeText(requireContext(), "SuccessFully User Created ${userId}" , Toast.LENGTH_LONG).show()
                 }else{
-                    //Toast.makeText(requireContext(), " Failed to add user" , Toast.LENGTH_SHORT).show()
+                    Toast.makeText(requireContext(), " Failed to add user" , Toast.LENGTH_LONG).show()
                 }
             }
 
             override fun onFailure(call: Call<CreateUserResponse>, t: Throwable) {
-                //Toast.makeText(requireContext(), " Failed to add" , Toast.LENGTH_SHORT).show()
+                Toast.makeText(requireContext(), " Failed to add" , Toast.LENGTH_LONG).show()
             }
 
         })

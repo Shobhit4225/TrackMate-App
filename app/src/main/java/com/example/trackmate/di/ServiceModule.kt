@@ -48,7 +48,7 @@ object ServiceModule  {
     ) = NotificationCompat.Builder(app, Constants.NOTIFICATION_CHANNEL_ID)
         .setAutoCancel(false)
         .setOngoing(true)
-        .setSmallIcon(R.drawable.ic_google_icon)
+        .setSmallIcon(R.drawable.location1)
         .setContentTitle("Running App")
         .setContentText("00:00:00")
         .setContentIntent(pendingIntent)
