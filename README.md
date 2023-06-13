@@ -18,8 +18,8 @@ The authentication feature allows users to securely sign up, log in, and manage 
 
 <div align="left">
   <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/splash.png" alt="Authentication Screenshot 1" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Image/loginpage.png" alt="Authentication Screenshot 1" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Image/signuppage.png" alt="Authentication Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/loginpage.png" alt="Authentication Screenshot 1" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/signuppage.png" alt="Authentication Screenshot 2" width="250"/>
 </div>
 
 ### 2. Setup page
@@ -56,9 +56,9 @@ TrackMate implements robust permission handling for accessing the user's locatio
 By implementing comprehensive permission handling, TrackMate prioritizes user privacy and ensures the secure and responsible use of location data.
 
 <div align="left">
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/permission1.png" alt="Activity Tracking Screenshot 1" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/permission2.png" alt="Activity Tracking Screenshot 2" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/tree/main/Images/permission3.png" alt="Activity Tracking Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/permission1.jpeg" alt="Activity Tracking Screenshot 1" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/permission2.jpeg" alt="Activity Tracking Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/permission3.jpeg" alt="Activity Tracking Screenshot 2" width="250"/>
 </div>
 
 ### 5. Activity Statistics
@@ -101,7 +101,7 @@ With its real-time tracking capabilities, activity mode selection, and visual re
   <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/trackpage1.png" alt="Realtime Tracking Screenshot" width="250"/>
   <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/trackpage2.png" alt="Realtime Tracking Screenshot" width="250"/>
   <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/trackpage3.png" alt="Realtime Tracking Screenshot" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/notification3.png" alt="Realtime Tracking Screenshot" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/notification3.jpeg" alt="Realtime Tracking Screenshot" width="250"/>
   <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/canclepage.png" alt="Realtime Tracking Screenshot" width="250"/>
 </div>
 
@@ -140,7 +140,7 @@ By incorporating these notification types, TrackMate ensures that users stay inf
 <div align="left">
   <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/notification1.png" alt="Activity Tracking Screenshot 1" width="250"/>
   <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/notification2.png" alt="Activity Tracking Screenshot 2" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/notification3.png" alt="Activity Tracking Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/notification3.jpeg" alt="Activity Tracking Screenshot 2" width="250"/>
 </div>
 
 ## Getting Started
