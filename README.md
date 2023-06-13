@@ -120,8 +120,7 @@ TrackMate's Overall Performance Analysis feature provides a comprehensive overvi
 TrackMate incorporates a social media feature that allows users to share their achievements and fitness milestones with others. Users can post their accomplishments and receive likes and comments from fellow users, fostering a sense of community and motivation. The implementation includes server-side pagination to efficiently manage large amounts of data and ensure optimal performance. Additionally, client-side pagination enhances the user experience by loading content in smaller, manageable chunks. This combination of server-side and client-side pagination ensures a smooth and seamless social media experience for users while maintaining performance and scalability.
 
 <div align="left">
-  <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/setuppage1.png" alt="Activity Tracking Screenshot 1" width="250"/>
-  <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/setuppage2.png" alt="Activity Tracking Screenshot 2" width="250"/>
+  <img src="https://github.com/Shobhit4225/TrackMate-App/blob/main/Images/social1.jpeg" alt="Activity Tracking Screenshot 1" width="250"/>
 </div>
 
 
